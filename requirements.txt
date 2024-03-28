@@ -113,3 +113,4 @@ urllib3==2.2.1
     # via requests
 watchdog==4.0.0
     # via streamlit
+sklearn==1.3.2
